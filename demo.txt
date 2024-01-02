@@ -1,0 +1,37 @@
+<table>
+								<tr>
+									<td>
+										<div>
+											<h2>BCA 1st Semester</h2>
+											<ul class="links">
+												<li><a href="#">C-Programming</a></li>
+												<li><a href="#">Web Designing</a></li>
+												<li><a href="#">Digital Fluency</a></li>
+												<li><a href="#">Kannada</a></li>
+												<li><a href="#">English</a></li>
+												<li><a href="#">Hindi</a></li>
+												<li><a href="#">Mathematics</a></li>
+												<li><a href="#">Accountancy</a></li>
+												<li><a href="#">Office Management</a></li>
+											</ul>
+										</div>
+									</td>
+									<td>
+										<div>
+											<h2>BCA 2nd Semester</h2>
+											<ul class="links">
+												<li><a href="#">Data Structures using C</a></li>
+												<li><a href="#">Java</a></li>
+												<li><a href="#">EVS</a></li>
+												<li><a href="#">Kannada</a></li>
+												<li><a href="#">English</a></li>
+												<li><a href="#">Hindi</a></li>
+												<li><a href="#">Mathematics</a></li>
+												<li><a href="#">Retail Management</a></li>
+												
+											</ul>
+										</div>
+									</td>
+								</tr>
+								
+							</table>
